@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vaishnavi Mohite</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/v2/resize:fit:786/format:webp/1*uYkZXXw-QL-N_1gVndPH9A.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavimohite28&label=Profile%20views&color=0e75b6&style=flat" alt="VaishnaviMohite28" /> </p>
 
